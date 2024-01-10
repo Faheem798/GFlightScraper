@@ -1,0 +1,15 @@
+{
+  "name": "gflightscraper",
+  "version": "1.0.0",
+  "description": "GFlightScraper is a web scraping tool built with Puppeteer in JavaScript. It extracts flight details from Google Flights, providing information such as origin, destination, price, duration, and flight times. The extracted data is saved in both .txt and .json formats for easy analysis and further processing.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Faheem",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.7.0"
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "trips": [
+    {
+      "isExpired": "false",
+      "key": "Boston-Phoenix-2024-01-10T00:37:39.437Z",
+      "createdAt": "2024-01-10T00:37:39.508Z",
+      "origin": "Boston",
+      "destination": "Phoenix",
+      "price": "PKR 57,985",
+      "duration": 3,
+      "departingFlight": {
+        "originDeparture": {
+          "code": "(BOS)",
+          "date": "Fri, Jan 26",
+          "time": "6:00 AM"
+        },
+        "originDestination": {
+          "code": "(PHX)",
+          "time": "10:12 AM"
+        }
+      },
+      "returningFlight": {
+        "originDeparture": {
+          "code": "(BOS)",
+          "date": "Mon, Jan 29",
+          "time": "11:01 PM"
+        },
+        "originDestination": {
+          "code": "(PHX)",
+          "time": "5:48 AM+1"
+        }
+      }
+    }
+  ]
+}{
+  "trips": [
+    {
+      "isExpired": "false",
+      "key": "Boston-Phoenix-2024-01-10T00:37:46.725Z",
+      "createdAt": "2024-01-10T00:37:46.725Z",
+      "origin": "Boston",
+      "destination": "Phoenix",
+      "price": "PKR 57,985",
+      "duration": 3,
+      "departingFlight": {
+        "originDeparture": {
+          "code": "(BOS)",
+          "date": "Fri, Jan 26",
+          "time": "5:20 PM"
+        },
+        "originDestination": {
+          "code": "(PHX)",
+          "time": "9:34 PM"
+        }
+      },
+      "returningFlight": {
+        "originDeparture": {
+          "code": "(BOS)",
+          "date": "Mon, Jan 29",
+          "time": "10:25 PM"
+        },
+        "originDestination": {
+          "code": "(PHX)",
+          "time": "5:00 AM+1"
+        }
+      }
+    }
+  ]
+}{
+  "trips": [
+    {
+      "isExpired": "false",
+      "key": "New York-Charleston-2024-01-10T00:38:32.864Z",
+      "createdAt": "2024-01-10T00:38:32.864Z",
+      "origin": "New York",
+      "destination": "Charleston",
+      "price": "PKR 32,677",
+      "duration": 2,
+      "departingFlight": {
+        "originDeparture": {
+          "code": "(JFK)",
+          "date": "Mon, Feb 12",
+          "time": "8:31 AM"
+        },
+        "originDestination": {
+          "code": "(CHS)",
+          "time": "10:54 AM"
+        }
+      },
+      "returningFlight": {
+        "originDeparture": {
+          "code": "(JFK)",
+          "date": "Wed, Feb 14",
+          "time": "5:48 PM"
+        },
+        "originDestination": {
+          "code": "(CHS)",
+          "time": "8:00 PM"
+        }
+      }
+    }
+  ]
+}{
+  "trips": [
+    {
+      "isExpired": "false",
+      "key": "New York-Paris-2024-01-10T00:38:43.655Z",
+      "createdAt": "2024-01-10T00:38:43.655Z",
+      "origin": "New York",
+      "destination": "Paris",
+      "price": "PKR 266,333",
+      "duration": 1,
+      "departingFlight": {
+        "originDeparture": {
+          "code": "(JFK)",
+          "date": "Mon, Feb 12",
+          "time": "10:30 PM"
+        },
+        "originDestination": {
+          "code": "(CDG)",
+          "time": "12:00 PM+1"
+        }
+      },
+      "returningFlight": {
+        "originDeparture": {
+          "code": "(JFK)",
+          "date": "Wed, Feb 14",
+          "time": "2:30 PM"
+        },
+        "originDestination": {
+          "code": "(CDG)",
+          "time": "5:25 PM"
+        }
+      }
+    }
+  ]
+}{
+  "trips": [
+    {
+      "isExpired": "false",
+      "key": "New York-London-2024-01-10T00:38:53.536Z",
+      "createdAt": "2024-01-10T00:38:53.536Z",
+      "origin": "New York",
+      "destination": "London",
+      "price": "PKR 260,951",
+      "duration": 1,
+      "departingFlight": {
+        "originDeparture": {
+          "code": "(JFK)",
+          "date": "Mon, Feb 12",
+          "time": "7:25 PM"
+        },
+        "originDestination": {
+          "code": "(LHR)",
+          "time": "7:10 AM+1"
+        }
+      },
+      "returningFlight": {
+        "originDeparture": {
+          "code": "(JFK)",
+          "date": "Wed, Feb 14",
+          "time": "4:20 PM"
+        },
+        "originDestination": {
+          "code": "(LHR)",
+          "time": "7:35 PM"
+        }
+      }
+    }
+  ]
+}{
+  "trips": [
+    {
+      "isExpired": "false",
+      "key": "New York-San Francisco-2024-01-10T00:39:36.996Z",
+      "createdAt": "2024-01-10T00:39:36.996Z",
+      "origin": "New York",
+      "destination": "San Francisco",
+      "price": "PKR 80,482",
+      "duration": 2,
+      "departingFlight": {
+        "originDeparture": {
+          "code": "(JFK)",
+          "date": "Mon, Feb 12",
+          "time": "6:30 AM"
+        },
+        "originDestination": {
+          "code": "(SFO)",
+          "time": "10:14 AM"
+        }
+      },
+      "returningFlight": {
+        "originDeparture": {
+          "code": "(JFK)",
+          "date": "Wed, Feb 14",
+          "time": "8:45 PM"
+        },
+        "originDestination": {
+          "code": "(SFO)",
+          "time": "5:05 AM+1"
+        }
+      }
+    }
+  ]
+}{
+  "trips": [
+    {
+      "isExpired": "false",
+      "key": "New York-San Diego-2024-01-10T00:39:45.233Z",
+      "createdAt": "2024-01-10T00:39:45.233Z",
+      "origin": "New York",
+      "destination": "San Diego",
+      "price": "PKR 63,610",
+      "duration": 2,
+      "departingFlight": {
+        "originDeparture": {
+          "code": "(JFK)",
+          "date": "Mon, Feb 12",
+          "time": "8:15 AM"
+        },
+        "originDestination": {
+          "code": "(SAN)",
+          "time": "11:49 AM"
+        }
+      },
+      "returningFlight": {
+        "originDeparture": {
+          "code": "(JFK)",
+          "date": "Wed, Feb 14",
+          "time": "1:55 PM"
+        },
+        "originDestination": {
+          "code": "(SAN)",
+          "time": "10:15 PM"
+        }
+      }
+    }
+  ]
+}
