@@ -25,6 +25,8 @@ export async function scrapeData(url) {
       .then(element => page.evaluate(el => el.textContent.trim(), element)),
     destinationCode: await page.waitForXPath('//div[contains(@class, "FY5t7d tdMWuf y52p7d")]//span[contains(@dir, "ltr") and normalize-space()]')
       .then(element => page.evaluate(el => el.textContent.trim(), element)),
+    arrivalDate: await page.waitForSelector('.tMLpW')
+      .then(element => page.evaluate(el => el.textContent.trim(), element)),
     arrivalTime: await page.waitForSelector('#c26 > div.c257Jb.QwxBBf.NbfThf > div.OJg28c.YMlIz.y52p7d')
       .then(element => page.evaluate(el => el.textContent.trim(), element)),
   };
@@ -37,6 +39,8 @@ export async function scrapeData(url) {
     departureTime: await page.waitForSelector('#c35 > div.c257Jb.QwxBBf.NbfThf > div.b0EVyb.YMlIz.y52p7d')
       .then(element => page.evaluate(el => el.textContent.trim(), element)),
     destinationCode: await page.waitForXPath('//div[contains(@class, "FY5t7d tdMWuf y52p7d")]//span[contains(@dir, "ltr") and normalize-space()]')
+      .then(element => page.evaluate(el => el.textContent.trim(), element)),
+    arrivalDate: await page.waitForSelector('div:nth-child(2) > div.uQEzCd > div > div > div.tMLpW')
       .then(element => page.evaluate(el => el.textContent.trim(), element)),
     arrivalTime: await page.waitForSelector('#c35 > div.c257Jb.QwxBBf.NbfThf > div.OJg28c.YMlIz.y52p7d')
       .then(element => page.evaluate(el => el.textContent.trim(), element)),

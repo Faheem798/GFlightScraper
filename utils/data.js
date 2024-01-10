@@ -1,6 +1,9 @@
 export const urls = [
   "https://www.google.com/travel/flights/s/sQbK4YSNwJgUkKFA8",
   "https://www.google.com/travel/flights/s/WEf2XB4KVHhjvsG56",
+];
+
+const multiUrls =[
   "https://www.google.com/travel/flights/s/w2HucPV64nFtGyqcA",
   "https://www.google.com/travel/flights/s/cQKwE5aVXkBtMCEZ8",
   "https://www.google.com/travel/flights/s/j9orXhWCoS7N6Crg7",
@@ -9,4 +12,4 @@ export const urls = [
   "https://www.google.com/travel/flights/s/6wL69SctfECo2hCPA",
   "https://www.google.com/travel/flights/s/PevAfDUv1G5aACKJ7",
   "https://www.google.com/travel/flights/s/WmqsfrtGrTAR7eHN9",
-];
+]

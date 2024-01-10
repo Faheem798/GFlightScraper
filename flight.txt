@@ -82,3 +82,75 @@ Returning Flight
  
 URL: https://www.google.com/travel/flights/s/PevAfDUv1G5aACKJ7
 ---
+Trip: Boston to Phoenix PKR 57,985 (3 DAYS)
+ 
+Departing Flight
+(BOS) Fri, Jan 26 at 6:00 AM
+(PHX) Fri, Jan 26 at 10:12 AM
+ 
+Returning Flight
+(BOS) Mon, Jan 29 at 11:01 PM
+(PHX) undefined at 5:48 AM+1
+ 
+URL: https://www.google.com/travel/flights/s/sQbK4YSNwJgUkKFA8
+---
+Trip: Boston to Phoenix PKR 57,985 (3 DAYS)
+ 
+Departing Flight
+(BOS) Fri, Jan 26 at 5:20 PM
+(PHX) Fri, Jan 26 at 9:34 PM
+ 
+Returning Flight
+(BOS) Mon, Jan 29 at 10:25 PM
+(PHX) undefined at 5:00 AM+1
+ 
+URL: https://www.google.com/travel/flights/s/WEf2XB4KVHhjvsG56
+---
+Trip: Boston to Phoenix PKR 57,985 (3 DAYS)
+ 
+Departing Flight
+(BOS) Fri, Jan 26 at 6:00 AM
+(PHX) Fri, Jan 26 at 10:12 AM
+ 
+Returning Flight
+(BOS) Mon, Jan 29 at 11:01 PM
+(PHX) Mon, Jan 29 at 5:48 AM+1
+ 
+URL: https://www.google.com/travel/flights/s/sQbK4YSNwJgUkKFA8
+---
+Trip: Boston to Phoenix PKR 57,985 (3 DAYS)
+ 
+Departing Flight
+(BOS) Fri, Jan 26 at 5:20 PM
+(PHX) Fri, Jan 26 at 9:34 PM
+ 
+Returning Flight
+(BOS) Mon, Jan 29 at 10:25 PM
+(PHX) Mon, Jan 29 at 5:00 AM+1
+ 
+URL: https://www.google.com/travel/flights/s/WEf2XB4KVHhjvsG56
+---
+Trip: Boston to Phoenix PKR 57,985 (3 DAYS)
+ 
+Departing Flight
+(BOS) Fri, Jan 26 at 6:00 AM
+(PHX) Fri, Jan 26 at 10:12 AM
+ 
+Returning Flight
+(BOS) Mon, Jan 29 at 11:01 PM
+(PHX) Mon, Jan 29 at 5:48 AM+1
+ 
+URL: https://www.google.com/travel/flights/s/sQbK4YSNwJgUkKFA8
+---
+Trip: Boston to Phoenix PKR 57,985 (3 DAYS)
+ 
+Departing Flight
+(BOS) Fri, Jan 26 at 5:20 PM
+(PHX) Fri, Jan 26 at 9:34 PM
+ 
+Returning Flight
+(BOS) Mon, Jan 29 at 10:25 PM
+(PHX) Mon, Jan 29 at 5:00 AM+1
+ 
+URL: https://www.google.com/travel/flights/s/WEf2XB4KVHhjvsG56
+---

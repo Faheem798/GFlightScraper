@@ -1,4 +1,3 @@
-// main.js
 import { urls } from './utils/data.js';
 import { scrapeData } from './scraper/scraper.js';
 import { writeToFile } from './fileHandler/fileHandler.js';
@@ -10,9 +9,9 @@ async function main() {
 
       const txtContent = `Trip: ${data.origin} to ${data.destination} ${data.price} (${data.duration} DAYS)\n \n` +
         `Departing Flight\n${data.departingFlight.originCode} ${data.departingFlight.departureDate} at ${data.departingFlight.departureTime}\n` +
-        `${data.departingFlight.destinationCode} ${data.departingFlight.departureDate} at ${data.departingFlight.arrivalTime}\n \n` +
+        `${data.departingFlight.destinationCode} ${data.departingFlight.arrivalDate} at ${data.departingFlight.arrivalTime}\n \n` +
         `Returning Flight\n${data.returningFlight.originCode} ${data.returningFlight.departureDate} at ${data.returningFlight.departureTime}\n` +
-        `${data.returningFlight.destinationCode} ${data.returningFlight.departureDate} at ${data.returningFlight.arrivalTime}\n \n` +
+        `${data.returningFlight.destinationCode} ${data.returningFlight.arrivalDate} at ${data.returningFlight.arrivalTime}\n \n` +
         `URL: ${url}\n---\n`;
 
       await writeToFile('flight.txt', txtContent);
@@ -27,6 +26,7 @@ async function main() {
             destination: data.destination,
             price: data.price,
             duration: data.duration,
+            url: url,
             departingFlight: {
               originDeparture: {
                 code: data.departingFlight.originCode,
@@ -35,6 +35,7 @@ async function main() {
               },
               originDestination: {
                 code: data.departingFlight.destinationCode,
+                date: data.departingFlight.arrivalDate,
                 time: data.departingFlight.arrivalTime,
               },
             },
@@ -46,6 +47,7 @@ async function main() {
               },
               originDestination: {
                 code: data.returningFlight.destinationCode,
+                date: data.returningFlight.arrivalDate,
                 time: data.returningFlight.arrivalTime,
               },
             },

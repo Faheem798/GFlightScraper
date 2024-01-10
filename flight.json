@@ -236,4 +236,224 @@
       }
     }
   ]
+}{
+  "trips": [
+    {
+      "isExpired": "false",
+      "key": "Boston-Phoenix-2024-01-10T01:41:07.372Z",
+      "createdAt": "2024-01-10T01:41:07.372Z",
+      "origin": "Boston",
+      "destination": "Phoenix",
+      "price": "PKR 57,985",
+      "duration": 3,
+      "url": "https://www.google.com/travel/flights/s/sQbK4YSNwJgUkKFA8",
+      "departingFlight": {
+        "originDeparture": {
+          "code": "(BOS)",
+          "date": "Fri, Jan 26",
+          "time": "6:00 AM"
+        },
+        "originDestination": {
+          "code": "(PHX)",
+          "date": "Fri, Jan 26",
+          "time": "10:12 AM"
+        }
+      },
+      "returningFlight": {
+        "originDeparture": {
+          "code": "(BOS)",
+          "date": "Mon, Jan 29",
+          "time": "11:01 PM"
+        },
+        "originDestination": {
+          "code": "(PHX)",
+          "time": "5:48 AM+1"
+        }
+      }
+    }
+  ]
+}{
+  "trips": [
+    {
+      "isExpired": "false",
+      "key": "Boston-Phoenix-2024-01-10T01:41:15.965Z",
+      "createdAt": "2024-01-10T01:41:15.965Z",
+      "origin": "Boston",
+      "destination": "Phoenix",
+      "price": "PKR 57,985",
+      "duration": 3,
+      "url": "https://www.google.com/travel/flights/s/WEf2XB4KVHhjvsG56",
+      "departingFlight": {
+        "originDeparture": {
+          "code": "(BOS)",
+          "date": "Fri, Jan 26",
+          "time": "5:20 PM"
+        },
+        "originDestination": {
+          "code": "(PHX)",
+          "date": "Fri, Jan 26",
+          "time": "9:34 PM"
+        }
+      },
+      "returningFlight": {
+        "originDeparture": {
+          "code": "(BOS)",
+          "date": "Mon, Jan 29",
+          "time": "10:25 PM"
+        },
+        "originDestination": {
+          "code": "(PHX)",
+          "time": "5:00 AM+1"
+        }
+      }
+    }
+  ]
+}{
+  "trips": [
+    {
+      "isExpired": "false",
+      "key": "Boston-Phoenix-2024-01-10T01:42:04.137Z",
+      "createdAt": "2024-01-10T01:42:04.137Z",
+      "origin": "Boston",
+      "destination": "Phoenix",
+      "price": "PKR 57,985",
+      "duration": 3,
+      "url": "https://www.google.com/travel/flights/s/sQbK4YSNwJgUkKFA8",
+      "departingFlight": {
+        "originDeparture": {
+          "code": "(BOS)",
+          "date": "Fri, Jan 26",
+          "time": "6:00 AM"
+        },
+        "originDestination": {
+          "code": "(PHX)",
+          "date": "Fri, Jan 26",
+          "time": "10:12 AM"
+        }
+      },
+      "returningFlight": {
+        "originDeparture": {
+          "code": "(BOS)",
+          "date": "Mon, Jan 29",
+          "time": "11:01 PM"
+        },
+        "originDestination": {
+          "code": "(PHX)",
+          "date": "Mon, Jan 29",
+          "time": "5:48 AM+1"
+        }
+      }
+    }
+  ]
+}{
+  "trips": [
+    {
+      "isExpired": "false",
+      "key": "Boston-Phoenix-2024-01-10T01:42:12.102Z",
+      "createdAt": "2024-01-10T01:42:12.102Z",
+      "origin": "Boston",
+      "destination": "Phoenix",
+      "price": "PKR 57,985",
+      "duration": 3,
+      "url": "https://www.google.com/travel/flights/s/WEf2XB4KVHhjvsG56",
+      "departingFlight": {
+        "originDeparture": {
+          "code": "(BOS)",
+          "date": "Fri, Jan 26",
+          "time": "5:20 PM"
+        },
+        "originDestination": {
+          "code": "(PHX)",
+          "date": "Fri, Jan 26",
+          "time": "9:34 PM"
+        }
+      },
+      "returningFlight": {
+        "originDeparture": {
+          "code": "(BOS)",
+          "date": "Mon, Jan 29",
+          "time": "10:25 PM"
+        },
+        "originDestination": {
+          "code": "(PHX)",
+          "date": "Mon, Jan 29",
+          "time": "5:00 AM+1"
+        }
+      }
+    }
+  ]
+}{
+  "trips": [
+    {
+      "isExpired": "false",
+      "key": "Boston-Phoenix-2024-01-10T01:44:15.689Z",
+      "createdAt": "2024-01-10T01:44:15.840Z",
+      "origin": "Boston",
+      "destination": "Phoenix",
+      "price": "PKR 57,985",
+      "duration": 3,
+      "url": "https://www.google.com/travel/flights/s/sQbK4YSNwJgUkKFA8",
+      "departingFlight": {
+        "originDeparture": {
+          "code": "(BOS)",
+          "date": "Fri, Jan 26",
+          "time": "6:00 AM"
+        },
+        "originDestination": {
+          "code": "(PHX)",
+          "date": "Fri, Jan 26",
+          "time": "10:12 AM"
+        }
+      },
+      "returningFlight": {
+        "originDeparture": {
+          "code": "(BOS)",
+          "date": "Mon, Jan 29",
+          "time": "11:01 PM"
+        },
+        "originDestination": {
+          "code": "(PHX)",
+          "date": "Mon, Jan 29",
+          "time": "5:48 AM+1"
+        }
+      }
+    }
+  ]
+}{
+  "trips": [
+    {
+      "isExpired": "false",
+      "key": "Boston-Phoenix-2024-01-10T01:44:23.460Z",
+      "createdAt": "2024-01-10T01:44:23.460Z",
+      "origin": "Boston",
+      "destination": "Phoenix",
+      "price": "PKR 57,985",
+      "duration": 3,
+      "url": "https://www.google.com/travel/flights/s/WEf2XB4KVHhjvsG56",
+      "departingFlight": {
+        "originDeparture": {
+          "code": "(BOS)",
+          "date": "Fri, Jan 26",
+          "time": "5:20 PM"
+        },
+        "originDestination": {
+          "code": "(PHX)",
+          "date": "Fri, Jan 26",
+          "time": "9:34 PM"
+        }
+      },
+      "returningFlight": {
+        "originDeparture": {
+          "code": "(BOS)",
+          "date": "Mon, Jan 29",
+          "time": "10:25 PM"
+        },
+        "originDestination": {
+          "code": "(PHX)",
+          "date": "Mon, Jan 29",
+          "time": "5:00 AM+1"
+        }
+      }
+    }
+  ]
 }
