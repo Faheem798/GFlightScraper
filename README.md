@@ -49,26 +49,25 @@ npm install
 
 ## 🚀 How to Use
 
-1. Open `main.js` and edit the parameters:
+1. ✍️ **Add your Google Flights links** in `utils/data.js` like this:
 
 ```js
-const from = "LHE";            // Departure airport code (e.g., Lahore)
-const to = "DXB";              // Arrival airport code (e.g., Dubai)
-const departDate = "2025-05-01";
-const returnDate = "2025-05-10"; // Optional
+module.exports = [
+  "https://www.google.com/travel/flights/search?tfs=...&tfu=...",
+  "https://www.google.com/travel/flights/search?tfs=...&tfu=...",
+  // Add more links as needed
+];
 ```
 
-2. Run the script:
+2. ▶️ **Run the script**:
 
 ```bash
 node main.js
 ```
 
-3. Scraped flight data will be saved in:
+3. ✅ **Check your output**:
 
-```bash
-output/flights.json
-```
+The scraped data will be saved in the `output/` folder as a `.json` file.
 
 ---
 
@@ -83,8 +82,7 @@ output/flights.json
     "arrivalTime": "10:25 AM",
     "duration": "7h 40m",
     "stops": "1 stop"
-  },
-  ...
+  }
 ]
 ```
 
