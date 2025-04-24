@@ -131,4 +131,3 @@ Got questions or suggestions? Open an [issue](https://github.com/Faheem798/GFlig
 ---
 
 > ⚠️ Disclaimer: Google Flights may change its layout or block automated access. Use this tool responsibly and for educational purposes only.
-```
